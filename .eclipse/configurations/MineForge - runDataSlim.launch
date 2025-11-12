@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+  <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="MineForge"/>
+  <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="net.minecraftforge.bootstrap.ForgeBootstrap"/>
+  <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dforge.logging.console.level=debug -Deventbus.api.strictRuntimeChecks=true -Djava.net.preferIPv6Addresses=system"/>
+  <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--launchTarget forge_userdev_data --assetIndex 27 --assetsDir C:\Users\lucax\.gradle\caches\forge_gradle\assets --gameDir . --mod extratool --all --output C:\Users\lucax\Documents\MineForge\src\generated\resources --existing C:\Users\lucax\Documents\MineForge\src\main\resources"/>
+  <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\lucax\Documents\MineForge\run-data"/>
+  <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+    <mapEntry key="MOD_CLASSES" value="C:\Users\lucax\Documents\MineForge\bin\main;C:\Users\lucax\Documents\MineForge\bin\main"/>
+    <mapEntry key="MCP_MAPPINGS" value="official_1.21.10"/>
+  </mapAttribute>
+</launchConfiguration>
